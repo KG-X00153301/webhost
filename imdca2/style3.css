@@ -1,0 +1,28 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: groove;
+    margin-top: 5%;
+    width: 500px;
+    float: left;
+    margin-left: 2%;
+    
+  }
+
+  .container2 {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: groove;
+    margin-top: 5%;
+    width: 500px;
+    float: right;
+    margin-right: 2%;
+  }
+
+  ul.a {
+    list-style-position: outside;
+  }
